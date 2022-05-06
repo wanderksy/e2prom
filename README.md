@@ -1,3 +1,4 @@
+## STM32内部FLASH模拟E2PROM
 
 使用内部FLASH的最后一个扇区来模拟E2PROM来保存经常改变的参数。
 此参数以参数结构体的形式保存在flash中
